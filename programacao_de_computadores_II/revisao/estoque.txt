@@ -1,0 +1,6 @@
+439    tergal      21.75
+677    cambraia    13.4
+701    linho       9.5
+702    viscose     12.75
+703    seda        21.3
+855    chita       50
