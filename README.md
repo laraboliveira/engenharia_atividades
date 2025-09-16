@@ -2,7 +2,7 @@
 
 **Sobre este Repositório**
 
-Olá! 👋 Este repositório serve como um portfólio dos meus trabalhos e projetos desenvolvidos durante minha graduação em **Engenharia de Controle e Automação** na **UFOP**.
+Olá! 👋 Este repositório serve como um portfólio dos meus trabalhos e projetos que estou desenvolvendo durante minha graduação em **Engenharia de Controle e Automação** na **UFOP**.
 
 O objetivo principal é organizar e documentar meu progresso acadêmico, além de demonstrar as habilidades e conhecimentos que adquiri ao longo do curso.
 
