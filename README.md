@@ -14,6 +14,7 @@ A estrutura está organizada da seguinte forma:
 
 -   **Programação de Computadores I**: Contém os trabalhos e projetos desenvolvidos com foco na base fundamental da programação, focada em construir o raciocínio lógico e a compreensão de algoritmos, tendo o objetivo de capacitar o aluno a criar programas simples e resolver problemas computacionais básicos.
 -   **Programação de Computadores II**: Contém as atividades relacionadas a tópicos mais avançados e essenciais para o desenvolvimento de software robusto, com foco principal na organização e manipulação de dados, introduzindo o conceito de estruturas de dados e a aplicação de algoritmos eficientes de pesquisa e ordenação.
+-   **Introdução a Otimização**: Contém os trabalhos e projetos desenvolvidos com foco na modelagem e resolução de problemas de otimização, abordando técnicas de programação linear e não linear, métodos exatos e heurísticos, como o Simplex, busca local e método do gradiente, visando desenvolver a capacidade de encontrar soluções eficientes para problemas reais de engenharia e computação.
 
 ## 🛠️ Tecnologias e Ferramentas
 
